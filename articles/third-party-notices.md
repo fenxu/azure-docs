@@ -10,7 +10,7 @@ ms.date: 03/08/2019
 
 # Legal Notices
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
+Microsoft and any contributors grant you a license to the Microsoft documentation and other content just for test
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT).
 
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
